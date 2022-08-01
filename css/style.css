@@ -1,3 +1,19 @@
+body{
+    margin: 0;
+
+}
+
 .menu{
     padding: 0;
+}
+
+.header{
+    background: #000;
+    font-size: 14px;
+}
+
+
+.list{
+    width: auto;
+    display: block;
 }
